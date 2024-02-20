@@ -10,7 +10,9 @@ website:
         text: Home
       - about.qmd
       - Project_1.qmd
-
+      - Project_2.qmd
+      
+      
 format:
   html:
     theme: quartz
