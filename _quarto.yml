@@ -11,8 +11,8 @@ website:
       - about.qmd
       - Project_1.qmd
       - Project_2.qmd
-      
+      - Project_3.qmd
       
 format:
   html:
-    theme: quartz
+    theme: united
