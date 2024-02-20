@@ -1,7 +1,8 @@
-project:
+project: 
   type: website
+  output-dir: docs
 
-website:
+website: 
   title: "Hello!"
   navbar:
     left:
@@ -13,8 +14,3 @@ website:
 format:
   html:
     theme: quartz
-    css: styles.css
-    toc: true
-
-editor: visual
-
